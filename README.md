@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsmoilovMusoxon
 - 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning Pyhthon
+- 🌱 I’m currently learning Pyhthon & C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me WhatsApp: 998996107375, Telegram: @MusoxonIsmoilov
 <!---
